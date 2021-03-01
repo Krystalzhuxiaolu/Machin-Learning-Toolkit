@@ -1,4 +1,4 @@
-# Machin-Learning-Toolkit
+# Machine-Learning-Toolkit
 
 A set of machine learning templates that would be handy to use for later projects, including:
 1. Suerpvised learning: Regression and classification
